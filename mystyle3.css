@@ -1,0 +1,8 @@
+body ,h1,h2,h3,ul,li{ margin: 5; padding: 5;}
+h1{color: rgb(51, 3, 27);}
+body{
+    background-image: url(fly.jpg);
+    background-repeat: no-repeat;
+    background-size:cover;
+}
+body{font-family:Georgia, 'Times New Roman', Times, serif}
